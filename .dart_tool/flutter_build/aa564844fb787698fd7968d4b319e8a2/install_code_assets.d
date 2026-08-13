@@ -1,0 +1,1 @@
+ C:\\Users\\acer\\Downloads\\vitalis\\.dart_tool\\flutter_build\\aa564844fb787698fd7968d4b319e8a2\\native_assets.json: 

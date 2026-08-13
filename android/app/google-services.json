@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731410719736",
+    "project_id": "bmi-tracker-89be6",
+    "storage_bucket": "bmi-tracker-89be6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731410719736:android:3bbe54eb49d7df9a552c0d",
+        "android_client_info": {
+          "package_name": "com.vitalis.app.vitalis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731410719736-a3ucotl3vuoi6gkvgfq89ioucb0ic2ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLWcJv_zKdGuy0SEv_0FifAOvFjXhlN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731410719736-a3ucotl3vuoi6gkvgfq89ioucb0ic2ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

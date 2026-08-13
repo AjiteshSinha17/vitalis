@@ -1,0 +1,1 @@
+ C:\\Users\\acer\\Downloads\\vitalis\\.dart_tool\\flutter_build\\aa564844fb787698fd7968d4b319e8a2\\dart_build_result.json:  C:\\Users\\acer\\Downloads\\vitalis\\.dart_tool\\package_config.json C:\\Users\\acer\\Downloads\\vitalis\\pubspec.yaml C:\\src\\flutter\\bin\\cache\\dart-sdk\\version c:\\users\\acer\\downloads\\vitalis\\.dart_tool\\package_config.json

@@ -1,0 +1,6 @@
+{
+  "name": "Vitalis",
+  "description": "Precision Health Analytics & BMI Tracker with Multi-User Support and Firebase Auth Simulation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
